@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FotoMain.unity
+    guid: e24e8ce0d62a9a649afd3fa008d55fb4
+  - enabled: 1
+    path: Assets/Scenes/Ribbon.unity
+    guid: 4cdbd0f4199a66a4ca4ababb88ce7260
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: a7a7005f4d8f2be41b008720039ab839
+  m_configObjects: {}
